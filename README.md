@@ -9,8 +9,6 @@ Ez a projekt egy Jupyter Notebookot tartalmaz, amely Formula 1-es versenyadatoka
 ## Tartalom
 
 - Versenyzői statisztikák
-- Csapatösszehasonlítások
-- Pályák és helyszínek elemzése
 - Éves teljesítmények trendjei
 
 ## Interaktív futtatás
